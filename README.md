@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do PalekoG (Giovani Nascimento) 😁
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PalekoG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalekoG&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=PalekoG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=PalekoG&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
 </div>
     
 <br>

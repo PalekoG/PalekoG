@@ -1,7 +1,7 @@
 <h2 align="center">Bem-vindo(a) ao perfil do PalekoG (Giovani Nascimento) 🤩</h2>
 
 <p align="center">
-  <i>Aprendendo sempre, amo programar e ideias de Front :)</i>
+  <i>Unindo a paixão por Front-end com uma base forte em infraestrutura corporativa e automação. Focado em evoluir todos os dias.</i>
 </p>
 
 ---
@@ -9,8 +9,8 @@
 <h3 align="center">📊 Minhas Estatísticas e Linguagens</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PalekoG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalekoG&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PalekoG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalekoG&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
 </p>
 
 <br>
@@ -18,27 +18,26 @@
 <h3 align="center">🥷 Minhas Ferramentas & Time 7</h3>
 
 <p align="center">
-  <!-- Ícones Front-end -->
+  <!-- Ícones Front-end e Automação -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  
-  <!-- Ícones de Automação / Scripts -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" title="Scripts .bat" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows / Scripts .bat" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Terminal" title="Automação" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Terminal / Automação" />
   
-  <!-- Espaço em branco invisível para separar os ícones dos personagens -->
-  <img width="60" />
+  <img width="50" />
 
-  <!-- Personagens em 8-bit (Coloque o link da sua imagem ou GIF dentro do src="") -->
-  <img src="COLE_O_LINK_DO_KAKASHI_AQUI" height="50" alt="Kakashi" />
-  <img src="COLE_O_LINK_DA_SAKURA_AQUI" height="50" alt="Sakura" />
-  <img src="COLE_O_LINK_DO_SASUKE_AQUI" height="50" alt="Sasuke" />
-  <img src="COLE_O_LINK_DO_NARUTO_AQUI" height="50" alt="Naruto" />
+  <!-- Time 7 (Links atualizados e funcionando) -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="45" alt="Pikachu" />
+  <!-- Dica: Coloquei o Pikachu animado acima só para testar a animação. Substitua os links abaixo pelos do Naruto em .gif quando subir no seu GitHub! -->
+  <img src="https://img.icons8.com/color/48/000000/naruto.png" height="45" alt="Naruto" />
+  <img src="https://img.icons8.com/color/48/000000/sasuke-uchiha.png" height="45" alt="Sasuke" />
+  <img src="https://img.icons8.com/color/48/000000/sakura-haruno.png" height="45" alt="Sakura" />
+  <img src="https://img.icons8.com/color/48/000000/kakashi-hatake.png" height="45" alt="Kakashi" />
 </p>
 
 <br>
